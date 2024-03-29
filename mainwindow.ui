@@ -105,7 +105,7 @@
      <enum>QFrame::Raised</enum>
     </property>
     <property name="text">
-     <string>                                                             SCREEN THIS WAY</string>
+     <string>                                                             ECRAN</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignJustify|Qt::AlignVCenter</set>
