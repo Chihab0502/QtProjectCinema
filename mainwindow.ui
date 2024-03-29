@@ -1393,7 +1393,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Project by CppBuzz.com</string>
+     <string>Project by Chihab &amp; Idris</string>
     </property>
    </widget>
    <widget class="Line" name="line">

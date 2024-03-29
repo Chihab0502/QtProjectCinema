@@ -1,11 +1,3 @@
-/********************************************************************************
-** Form generated from reading UI file 'mainwindow.ui'
-**
-** Created by: Qt User Interface Compiler version 6.6.1
-**
-** WARNING! All changes made in this file will be lost when recompiling UI file!
-********************************************************************************/
-
 #ifndef UI_MAINWINDOW_H
 #define UI_MAINWINDOW_H
 
@@ -485,12 +477,12 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "Movie Ticket Booking 1.0", nullptr));
-        btnBook->setText(QCoreApplication::translate("MainWindow", "Book", nullptr));
-        btnCancel->setText(QCoreApplication::translate("MainWindow", "Cancel", nullptr));
-        btnReset->setText(QCoreApplication::translate("MainWindow", "End Show", nullptr));
+        btnBook->setText(QCoreApplication::translate("MainWindow", "Reserver", nullptr));
+        btnCancel->setText(QCoreApplication::translate("MainWindow", "Annuler", nullptr));
+        btnReset->setText(QCoreApplication::translate("MainWindow", "Fin Film", nullptr));
         label->setText(QCoreApplication::translate("MainWindow", "EXIT", nullptr));
         label_2->setText(QCoreApplication::translate("MainWindow", "EXIT", nullptr));
-        label_3->setText(QCoreApplication::translate("MainWindow", "                                                             SCREEN THIS WAY", nullptr));
+        label_3->setText(QCoreApplication::translate("MainWindow", "                                                             Ecran", nullptr));
         lblA1->setText(QCoreApplication::translate("MainWindow", "A-1", nullptr));
         lblA2->setText(QCoreApplication::translate("MainWindow", "A-2", nullptr));
         lblA3->setText(QCoreApplication::translate("MainWindow", "A-3", nullptr));
@@ -558,7 +550,7 @@ public:
         lblE1->setText(QCoreApplication::translate("MainWindow", "E-1", nullptr));
         lblE2->setText(QCoreApplication::translate("MainWindow", "E-2", nullptr));
         lblInfoImage->setText(QString());
-        label_4->setText(QCoreApplication::translate("MainWindow", "Project by CppBuzz.com", nullptr));
+        label_4->setText(QCoreApplication::translate("MainWindow", "Project by Chihab & Idris", nullptr));
     } // retranslateUi
 
 };

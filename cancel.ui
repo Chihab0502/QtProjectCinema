@@ -26,7 +26,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Cancel</string>
+    <string>Annuler</string>
    </property>
   </widget>
   <widget class="QLabel" name="label">
@@ -39,7 +39,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Select Seat</string>
+    <string>Selctionner</string>
    </property>
   </widget>
   <widget class="QComboBox" name="cmbSeats">

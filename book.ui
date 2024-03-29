@@ -14,7 +14,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Book a Ticket</string>
+   <string>Reserver Ticket</string>
   </property>
   <widget class="QPushButton" name="btnBook">
    <property name="geometry">
@@ -26,7 +26,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Book</string>
+    <string>Reserver</string>
    </property>
   </widget>
   <widget class="QComboBox" name="cmbSeats">
@@ -49,7 +49,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Select Seat</string>
+    <string>Selectionner</string>
    </property>
   </widget>
   <widget class="QLabel" name="lblInfo">
