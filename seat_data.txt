@@ -1,5 +1,5 @@
-A1 : Availablee
-A2 : Reservede
+A1 : Available
+A2 : Available
 A3 : Available
 A4 : Available
 A5 : Available
@@ -9,7 +9,7 @@ A8 : Available
 A9 : Available
 A10 : Available
 A11 : Available
-A12 : Reservede
+A12 : Available
 B1 : Available
 B2 : Available
 B3 : Available
